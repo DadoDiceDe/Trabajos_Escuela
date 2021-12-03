@@ -31,3 +31,7 @@ def home():
 [Sistema Operativo](https://github.com/DadoDiceDe/Trabajos_Escuela/blob/main/Tarea%205_Sistema%20Operativo_Diego.py) Este trabajo me causo algunos problemas en su momento, no por su complejidad sino por que no entendí su proposito; crear un programa que simulara ser un sistema operativo (básicamente un menú.). Actualmente funciona.
 
 [Lenguajes que mas contaminan](https://github.com/DadoDiceDe/Trabajos_Escuela/blob/0274f722d70b6046ac79988e43fcf1fb6de9b19c/Tarea%209_Idiomas_Contaminaci%C3%B3n_Diego.pdf) Este trabajo fue un fallo de mi parte, no entendí por completo la tarea pero hice de alguna manera un esfuerzo para poder entregar algo decente.
+
+[Trabajo de Replit] No entendí como hacerlo... si algo me queda claro es que no tengo ni idea de como usar flask.
+
+
