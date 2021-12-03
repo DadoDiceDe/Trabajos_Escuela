@@ -57,5 +57,5 @@ while opc != 4:
         menu()
         opc = int(input("Seleccione alguna opción: "))
 while opc==4:
-    print("Gracias por usar mi programa. ¡Adios! ")
+    print("Apagando...")
     break
